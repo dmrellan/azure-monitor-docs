@@ -93,7 +93,7 @@ Once resources are connected to your AMPLS, you can create a private endpoint to
 
 ## Configure access to AMPLS resources
 
-From the menu for your AMPLS, select **Network Isolation** to control which networks can reach the resource through a private link and whether other networks can reach it or not.
+From the menu for your Log Analytics workspace, select **Network Isolation** to control which networks can reach the resource through a private link and whether other networks can reach it or not.
 
 :::image type="content" source="media/private-link-security/ampls-network-isolation.png" lightbox="media/private-link-security/ampls-network-isolation.png" alt-text="Screenshot that shows Network Isolation.":::
 
