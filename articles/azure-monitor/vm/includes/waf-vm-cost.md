@@ -12,7 +12,6 @@ ms.date: 05/21/2025
 > * Reduce polling frequency of performance counters.
 > * Ensure that VMs aren't sending duplicate data.
 > * Use Log Analytics workspace insights to analyze billable costs and identify cost saving opportunities.
-> * Migrate your SCOM environment to Azure Monitor SCOM Managed Instance.
 
 ### Configuration recommendations
 
